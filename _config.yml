@@ -22,12 +22,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-sheets
 # title of site appears in banner
 title: LIB/DSCI 350M Queer Filipino History Project
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: a history of LGBTQ+ culture in the Philippines
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-Sheets is a template for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills."
+description: "This collection explores queer history in the Philippines, highlighting and honoring the stories of queer Filipinos who have existed since pre-colonial times."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Juli Malit, Kayla Kuo, Megan Ortega
 
 ##########
 # COLLECTION SETTINGS
