@@ -1,16 +1,16 @@
 ---
 title: Data Management Plan
-layout: about
+layout: page
 permalink: /dmp.html
 ---
-##Project Description
+## Project Description
 This collection explores queer history in the Philippines, highlighting and honoring the stories of queer Filipinos who have existed since pre-colonial times. The Philippines’ rich history of trans, gender nonconforming, and gay Filipino culture is mirrored in its languages, fashion, and resilience throughout colonial occupations and evolving legislation. Gathered from Filipino and Spanish sources off of digital libraries such as Project Gutenberg, Google Books, and Hathi Trust, as well as cataloged videos; the collection explores missed narratives of queer people in Filipino culture, and of Filipinos in queer culture through digital visual and textual material. This collection features, for instance, the Vocabulario de la Lengua Tagala, excerpts from the 55 volume series The Philippine Islands, 1493-1898, the illuminated Boxer Codex, plates from the Field Museum of Natural History Anthropology collection, and queer/drag documentaries. 
 
 Kahit nasaan na ang isang LGBTQ+ pinoy sa kanilang pagladlad, at kahit anuman ang yun salaysay ng nangingibabaw sa paligid nila, kailangan natin maakilala ang istoria natin at malaman itong katutuosan: meron tayong pwesto sa kasaysayan ng Pilipinas, at may laban parin ng mga communitad natin.
 
 Within western and dominant narratives of post-colonial and predominantly conservative cultures in the Philippines, it is easy for queer-identifying Filipinos to feel alone in either or both communities. But these identities are intricately intertwined, as depicted in this collection. And through inspiration and visibility, ang message natin ay ito lang: ang pagmamahalin ay pinapaganda ang buhay. May karapatan tayong mabuhay at magmahal, at alamin itong kasaysayan.  
 
-##Personnel, Roles & Responsibilities
+## Personnel, Roles & Responsibilities
 Project Manager: Juli Malit (3rd Year Architecture Major, Minor Digital Humanities)
 communicates to the team deadlines as well as updates to project progress.
 Project submissions are dealt with by the project manager. 
@@ -20,22 +20,23 @@ Repository Manager: Kayla Kuo (4th Year Art History and English Major, Minor Dig
 confirms that the objects within the repository are displayed correctly through GitHub, overseeing uploads and actions taken within the collection. 
 All team members are responsible for the creation of the collection through research, and uploads to the repository. 
 
-##Expected Data
+## Expected Data
 This project involves creating a collection of items representing Queer history in the Philippines, and is made up of digital objects found online. This collection includes the objects themselves, along with metadata such as creator, filename, subject, etc (see data glossary). 
 We utilize Google Drive in order to create a collaborative space to interact with our research and collection objects. In doing so we are creating google docs and spreadsheets to store our objects and document our project progress. These documents are all stored within a shared folder. 
 Collection objects compiled through public domain jpeg/png images and pdf sources are saved onto the team’s individual computers. Objects that take the form of youtube videos are subject to change, depending on the content uploader. Any metadata that links out to external sources may also be subject to change over time, depending on the creators of the sources. 
 We will also generate data through the GitHub Repository which generates data about user uploads, alterations, and other actions. 
 
-##Period of Data Retention
+## Period of Data Retention
 As none of the data generated within this project is sensitive and subject to removal, all data created for this project will be retained for the present academic course, and for at least a week after completing. If a team member foresees use of this data for a possible future research project, then the period of retention will be extended. 
 
-##Data Formats and Dissemination
+## Data Formats and Dissemination
 Our collection utilizes:
 Jpeg
 Png
 PDFs
 Youtube videos
 Hyperlinks
+
 Object metadata, uploaded to GitHub in the form of a CSV
 Our data is disseminated through the GiHub Collection Builder which creates a public website. Our GitHub repository is also public, and data created through this may also be publicly accessed.  
 Data Storage and Preservation of Access
