@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="/assets/img/jj-ying-WmnsGyaFnCQ-unsplash_opt.jpg" %}
+{% include feature/jumbotron.html objectid="/assets/img/bannerdraft.png" %}
 
 ## Our Project
 This collection explores queer history in the Philippines, highlighting and honoring the stories of queer Filipinos who have existed since pre-colonial times. The Philippines’ rich history of trans, gender nonconforming, and gay Filipino culture is mirrored in its languages, fashion, and resilience throughout colonial occupations and evolving legislation. Gathered from Filipino and Spanish sources off of digital libraries such as Internet Archive, Project Gutenberg, Google Books, Hathi Trust and Spain's Virtual Defense Library, as well as cataloged videos from Youtube, and images pulled from Wikipedia; the collection explores missed narratives of queer people in Filipino culture, and of Filipinos in queer culture through digital visual and textual material. We would like to credit these institutions for making these important sources available digitally. This collection features, for instance, the Vocabulario de la Lengua Tagala, excerpts from the 55 volume series The Philippine Islands, 1493-1898, the illuminated Boxer Codex, plates from the Field Museum of Natural History Anthropology collection, and queer/drag documentaries.
