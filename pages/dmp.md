@@ -61,14 +61,12 @@ Object metadata, uploaded to GitHub in the form of a CSV
 
 Our data is disseminated through the GiHub Collection Builder which creates a public website. Our GitHub repository is also public, and data created through this may also be publicly accessed.  
 
-Data Storage and Preservation of Access
-
-
+## Data Storage and Preservation of Access
 Our data is dependent on the existence and management of Google Sheets and Microsoft’s GitHub. Some of our data also relies on external sources such as Youtube, and hyperlinks to other sources. Access will be preserved so long as these sources remain up and running. 
 
 We do not plan on archiving our data through an external source. 
 
-Appendix A: Data Dictionary
+## Appendix A: Data Dictionary
 
 objectid - Unique identifier assigned by project team to reference the object within CollectionBuilder
 
