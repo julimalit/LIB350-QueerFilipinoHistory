@@ -20,19 +20,11 @@ Within western and dominant narratives of post-colonial and predominantly conser
 ## Who we are
 This project was created by three undergraduate students for the Winter 2025 course DSCI/LIB 350M: Humanities Research Data Management at the University of Oregon (UO). This course was led by UO's Associate Librarian, Franny Gaede with support from UO's Associate Librarian Rayne Vieger and Assistant Librarian Erin Winter. 
 
-Project Manager: Juli Malit (3rd Year Architecture Major, Minor Digital Humanities)
+Juli Malit, 3rd Year Architecture Major, Minor Digital Humanities. 
 
-Communicates to the team deadlines as well as updates to project progress. Project submissions are dealt with by the project manager.
+Megan Ortega, 4th Year Art History Major, Minor Classic Civics. 
 
-Collection Manager: Megan Ortega (4th Year Art History Major, Minor Classic Civics )
-
-Edits the metadata through Google spreadsheets, drafting item descriptions and ensuring the connection between repository and descriptive sheet.
-
-Repository Manager: Kayla Kuo (4th Year Art History and English Major, Minor Digital Humanities, CHC)
-
-Confirms that the objects within the repository are displayed correctly through GitHub, overseeing uploads and actions taken within the collection.
-
-All team members are responsible for the creation of the collection through research, and uploads to the repository.
+Kayla Kuo, 4th Year Art History and English Major, Minor Digital Humanities, CHC. 
 
 ## Acknowledgements
 Thanks to the invaluable support and advice provided by the librarians at the University of Oregon Libraries. 
