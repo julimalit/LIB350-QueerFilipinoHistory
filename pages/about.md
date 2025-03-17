@@ -34,7 +34,7 @@ Megan is our Collection Manager who is responsible for editing the metadata in o
 
 Kayla is the Repository Manager and is responsible for overseeing the uploads and actions within the collection, as well as ensuring that the repository fits the requirements for the course and our project.
 
-All team members are responsible for the creation of this collection, and as such some actions and responsibilities overlap. All group members worked on the repository, website, metadata, and in commmunicating deadlines and progress.
+All team members are responsible for the creation of this collection, and as such some actions and responsibilities overlap. All group members worked on the repository, website, metadata, and in communicating deadlines and progress.
 
 ## Acknowledgements
 Thanks to the invaluable support and advice provided by the librarians at the University of Oregon Libraries. 
