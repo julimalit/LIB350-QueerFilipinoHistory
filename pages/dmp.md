@@ -12,23 +12,22 @@ Within western and dominant narratives of post-colonial and predominantly conser
 
 
 ## Personnel, Roles & Responsibilities
-Project Manager: Juli Malit (3rd Year Architecture Major, Minor Digital Humanities)
+**Project Manager: Juli Malit (3rd Year Architecture Major, Minor Digital Humanities)**
 
 Communicates to the team deadlines as well as updates to project progress.
 Project submissions are dealt with by the project manager. 
 
 
-Collection Manager:  Megan Ortega (4th Year Art History Major, Minor Classic Civics )
+**Collection Manager:  Megan Ortega (4th Year Art History Major, Minor Classic Civics )**
 
 Edits the metadata through Google spreadsheets, drafting item descriptions and ensuring the connection between repository and descriptive sheet. 
 
 
-Repository Manager: Kayla Kuo (4th Year Art History and English Major, Minor Digital Humanities, CHC)
+**Repository Manager: Kayla Kuo (4th Year Art History and English Major, Minor Digital Humanities, CHC)**
 
 Confirms that the objects within the repository are displayed correctly through GitHub, overseeing uploads and actions taken within the collection. 
 
-All team members are responsible for the creation of the collection through research, and uploads to the repository. 
-
+All team members are responsible for the creation of the collection through research, and uploads to the repository. As such some actions and responsibilities overlap. All group members worked on the repository, website, metadata, and in communicating deadlines and progress.
 
 ## Expected Data
 This project involves creating a collection of items representing Queer history in the Philippines, and is made up of digital objects found online. This collection includes the objects themselves, along with metadata such as creator, filename, subject, etc (see data glossary). 
@@ -37,14 +36,14 @@ We utilize Google Drive in order to create a collaborative space to interact wit
 
 Collection objects compiled through public domain jpeg/png images and pdf sources are saved onto the team’s individual computers. Objects that take the form of youtube videos are subject to change, depending on the content uploader. Any metadata that links out to external sources may also be subject to change over time, depending on the creators of the sources. 
 
-We will also generate data through the GitHub Repository which generates data about user uploads, alterations, and other actions. 
+We will also generate data through the GitHub Repository which generates data about user uploads, alterations, and other actions. Our GitHub Repository and CollectionBuilder website are visible to the public.
 
 ## Period of Data Retention
 As none of the data generated within this project is sensitive and subject to removal, all data created for this project will be retained for the present academic course, and for at least a week after completing. If a team member foresees use of this data for a possible future research project, then the period of retention will be extended. 
 
 
 ## Data Formats and Dissemination
-Our collection utilizes:
+Our collection utilizes data in the format of: 
 
 Jpeg
 
@@ -52,14 +51,13 @@ Png
 
 PDFs
 
-Youtube videos
+Embedded youtube videos
 
 Hyperlinks
 
-
 Object metadata, uploaded to GitHub in the form of a CSV
 
-Our data is disseminated through the GiHub Collection Builder which creates a public website. Our GitHub repository is also public, and data created through this may also be publicly accessed.  
+Our data is disseminated through the GiHub Collection Builder which creates a public website. Our GitHub repository is also public, and data created through this may also be publicly accessed.  Our collection mainly utilizes objects within the public domain, although there are a few objects which are in copyright. Our use of these objects falls under fair use, and the rights statements are included in the metadata.  
 
 ## Data Storage and Preservation of Access
 Our data is dependent on the existence and management of Google Sheets and Microsoft’s GitHub. Some of our data also relies on external sources such as Youtube, and hyperlinks to other sources. Access will be preserved so long as these sources remain up and running. 
@@ -68,36 +66,34 @@ We do not plan on archiving our data through an external source.
 
 ## Appendix A: Data Dictionary
 
-objectid - Unique identifier assigned by project team to reference the object within CollectionBuilder
+**objectid** - Unique identifier assigned by project team to reference the object within CollectionBuilder
 
-youtubeid - Unique identifier assigned to every Youtube video, used to link the object to the video. 
+**youtubeid** - Unique identifier assigned to every Youtube video, used to link the object to the video. 
 
-filename - Name of the file including file type extension within the GitHub repository in the objects folder following the Title_Page_Region_Keyword naming convention.
+**filename** - Name of the file including file type extension within the GitHub repository in the objects folder following the Title_Page_Region_Keyword naming convention.
 
-title - Descriptive name of the object, generally given by the repository in which it was initially found, but otherwise assigned by project team to provide a brief descriptive name
+**title** - Descriptive name of the object, generally given by the repository in which it was initially found, but otherwise assigned by project team to provide a brief descriptive name
 
-creator - Author that is attributed to the object. 
+**creator** - Author that is attributed to the object. 
 
-date - Year which the object was created.
+**date** - Year which the object was created.
 
-description - Brief description of the object.
+**description** - Brief description of the object.
 
-subject - Objects are grouped under thematic subjects. 
+**subject** - Objects are grouped under thematic subjects. 
 
-location - Location where an object was created.
+**location** - Location where an object was created.
 
-source - Where the object was found digitally. 
+**source** - Where the object was found digitally. 
 
-type - Media type of the object: image, pdf, video, etc. 
+**type** - Media type of the object: image, pdf, video, etc. 
 
-format - File format of the object that is uploaded in the repository. 
+**format** - File format of the object that is uploaded in the repository. 
 
-language - What language the object is in.
+**language** - What language the object is in.
 
-rights - The rights of use of the object within this collection, whether the object is in the public domain or in copyright. 
+**rights** - The rights of use of the object within this collection, whether the object is in the public domain or in copyright. 
 
-rightsstatement - Statement taken off our rightsstatements.org concerning whether objects are in the public domain or in copyright. 
+**rightsstatement** - Statement taken off our rightsstatements.org concerning whether objects are in the public domain or in copyright. 
 
-fulltext - Section for where to provide a link that connects to where a full body of text, or other media source may be found. 
-
-
+**fulltext** - Section for where to provide a link that connects to where a full body of text, or other media source may be found. 
