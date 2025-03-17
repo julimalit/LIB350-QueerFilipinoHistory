@@ -17,6 +17,8 @@ Kahit nasaan na ang isang LGBTQ+ pinoy sa kanilang pagladlad, at kahit anuman an
 
 Within western and dominant narratives of post-colonial and predominantly conservative cultures in the Philippines, it is easy for queer-identifying Filipinos to feel alone in either or both communities. But these identities are intricately intertwined, as depicted in this collection. And through inspiration and visibility, ang message natin ay ito lang: ang pagmamahalin ay pinapaganda ang buhay. May karapatan tayong mabuhay at magmahal, at alamin itong kasaysayan.
 
+Access our GitHub Repo at https://github.com/julimalit/LIB350-QueerFilipinoHistory. 
+
 ## Who we are
 This project was created by three undergraduate students for the Winter 2025 course DSCI/LIB 350M: Humanities Research Data Management at the University of Oregon (UO). This course was led by UO's Associate Librarian, Franny Gaede with support from UO's Associate Librarian Rayne Vieger and Assistant Librarian Erin Winter. 
 
