@@ -28,3 +28,6 @@ Kayla Kuo, 4th Year Art History and English Major, Minor Digital Humanities, CHC
 
 ## Acknowledgements
 Thanks to the invaluable support and advice provided by the librarians at the University of Oregon Libraries. 
+
+## Use of Data 
+This collection's ownership is comprised of several sources ranging from Spanish/Filipino Dictionaries to images within the public domain. It is intended for audiences within research opportunities and for those who may have personal interests in Queer Filipino history. 
