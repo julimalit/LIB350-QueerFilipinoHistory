@@ -20,16 +20,24 @@ Within western and dominant narratives of post-colonial and predominantly conser
 Access our GitHub Repo at https://github.com/julimalit/LIB350-QueerFilipinoHistory. 
 
 ## Who we are
-This project was created by three undergraduate students for the Winter 2025 course DSCI/LIB 350M: Humanities Research Data Management at the University of Oregon (UO). This course was led by UO's Associate Librarian, Franny Gaede with support from UO's Associate Librarian Rayne Vieger and Assistant Librarian Erin Winter. 
+This project was created by three undergraduate students for the Winter 2025 course DSCI/LIB 350M: Humanities Research Data Management at the University of Oregon (UO). This course was led by UO's Associate Librarian, Franny Gaede with support from UO's Associate Librarian Rayne Vieger and Assistant Librarian Erin Winter. The three undergraduate students who created this collection are:
 
-Juli Malit, 3rd Year Architecture Major, Minor Digital Humanities. 
+**Juli Malit, 3rd Year Architecture Major, Minor Digital Humanities:**
 
-Megan Ortega, 4th Year Art History Major, Minor Classic Civics. 
+Juli is the Project Manager responsible for making sure we are on track with the project, and communicating deadlines/progress/issues to the team.
 
-Kayla Kuo, 4th Year Art History and English Major, Minor Digital Humanities, CHC. 
+**Megan Ortega, 4th Year Art History Major, Minor Classic Civics:**
+
+Megan is our Collection Manager who is responsible for editing the metadata in our Google Spreadsheets, and ensuring the connection/display between the repository and spreadsheet.
+
+**Kayla Kuo, 4th Year Art History and English Major, Minor Digital Humanities, CHC:**  
+
+Kayla is the Repository Manager and is responsible for overseeing the uploads and actions within the collection, as well as ensuring that the repository fits the requirements for the course and our project.
+
+All team members are responsible for the creation of this collection, and as such some actions and responsibilities overlap. All group members worked on the repository, website, metadata, and in commmunicating deadlines and progress.
 
 ## Acknowledgements
 Thanks to the invaluable support and advice provided by the librarians at the University of Oregon Libraries. 
 
 ## Use of Data 
-This collection's ownership is comprised of several sources ranging from Spanish/Filipino Dictionaries to images within the public domain. It is intended for audiences within research opportunities and for those who may have personal interests in Queer Filipino history. 
+This collection's ownership is comprised of several sources ranging from Spanish/Filipino Dictionaries to images within the public domain or are fair use. It is intended for audiences within research opportunities and for those who may have personal interests in Queer Filipino history. 
