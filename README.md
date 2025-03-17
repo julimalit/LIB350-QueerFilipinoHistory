@@ -1,3 +1,16 @@
+## Our Repository
+This Repository was created by three undergraduate students for the Winter 2025 course DSCI/LIB 350M: Humanities Research Data Management at the University of Oregon (UO). This course was led by UO’s Associate Librarian, Franny Gaede with support from UO’s Associate Librarian Rayne Vieger and Assistant Librarian Erin Winter.
+
+Within this course we spent ten weeks creating a website exhibit of digital objects and their meta data. Throughout this process and with supplmentary material provided by the course intruscctor we have learned about how GLAM (Galleries, Libraries, Archives, and Museums) institutions manage and use data. 
+
+Our repository was created by our Project Leader Juli Malit, and worked on by Megan Ortega and Kayla Kuo. We are third and fourth year undergraduate students at the University of Oregon with an interest in Digital Humanities and Art/Architecture/Design. 
+
+Throughout these ten weeks, we decided on creating a digital exhibit about Queer Filipino History. See our project here: https://julimalit.github.io/LIB350-QueerFilipinoHistory/. This collection explores queer history in the Philippines, highlighting and honoring the stories of queer Filipinos who have existed since pre-colonial times. 
+
+## Data Management Plan
+
+This project involves creating a collection of items representing Queer history in the Philippines, and is made up of digital objects found online. This collection includes the objects themselves, along with metadata such as creator, filename, subject, etc. Data generated for and during this project will be retained for the present academic course, and at least a week after completion of the course. We utilize JPEG, PNG, PDF, youtube videos, and hyperlinks as the main data formats. See https://julimalit.github.io/LIB350-QueerFilipinoHistory/dmp.html for more information on our Data Management Plan, which includes a data dictionary. 
+
 # CollectionBuilder-Sheets
 
 CollectionBuilder-Sheets is a template for creating simple digital exhibit websites by loading collection metadata directly from a CSV (such as a published Google Sheet!). 
